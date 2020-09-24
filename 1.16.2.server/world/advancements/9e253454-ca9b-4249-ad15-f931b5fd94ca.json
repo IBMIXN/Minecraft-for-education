@@ -1,0 +1,76 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-08-28 23:10:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2020-08-28 23:10:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2020-08-28 23:10:09 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-08-28 13:58:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-08-28 23:27:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2020-09-16 14:20:24 +0200",
+      "minecraft:forest": "2020-08-31 13:03:15 +0200",
+      "minecraft:desert": "2020-09-16 14:20:21 +0200",
+      "minecraft:jungle": "2020-09-16 15:19:21 +0200",
+      "minecraft:jungle_hills": "2020-09-16 14:20:29 +0200",
+      "minecraft:wooded_hills": "2020-09-16 14:19:21 +0200",
+      "minecraft:savanna": "2020-08-29 02:34:14 +0200",
+      "minecraft:plains": "2020-08-28 13:57:46 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}
